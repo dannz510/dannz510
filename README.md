@@ -49,10 +49,7 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 ## 🔥 GitHub Streak
 
-_This will update automatically after you commit!_
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dannz510&theme=hacker&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dannz510&theme=hacker&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
 ---
 
 ## 📊 My GitHub Stats
