@@ -18,7 +18,7 @@
 
 <p align="center">
  
-  [![github-trophies](https://stats.hyo.dev/api/github-trophies?login=dannz510)]
+  [![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hychan)]
 </p>
 
 ## 📔 Quote
