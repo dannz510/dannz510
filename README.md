@@ -13,14 +13,14 @@
 - 🌱 I’m currently learning **[Your primary programming language/technology, e.g., Python, JavaScript, Web Development basics]**
 - 👯 I’m looking to collaborate on **beginner-friendly projects** and **learn from experienced developers**.
 - 💬 Ask me about **[Topics you're learning or interested in, e.g., getting started with Git, basic coding challenges]**
-- 📫 How to reach me: [GitHub profile](https://github.com/dannz510)
+- 📫 How to reach me: [GitHub profile: Dannz](https://github.com/dannz510)
 - ⚡ Fun fact: I'm excited to **build my first [type of project, e.g., web app, script]** and **contribute to open source!**
 
 ---
 
 ## 💻 My Current Tools & Tech
 
-_Feel free to add or remove badges based on what you are learning or using! You can find more badges at [shields.io](https://shields.io/)._
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -34,7 +34,7 @@ _Feel free to add or remove badges based on what you are learning or using! You 
 
 ## 📑 My Projects Zone
 
-_As you create projects, you can link them here! Start with a few simple ones._
+
 
 | Type             | Project Name                      | Link                                                                        |
 |------------------|-----------------------------------|-----------------------------------------------------------------------------|
@@ -56,7 +56,7 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 ## 📊 My GitHub Stats
 
-_This will also update automatically with your activity!_
+
 
 | <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dannz510&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dannz's github stats" /></a> | <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannz510&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -65,7 +65,7 @@ _This will also update automatically with your activity!_
 
 ## 🚀 Valuable Learning Resources
 
-_As you create repositories for your learning journeys (e.g., a "MyJavaScriptNotes" repo, or "GitTutorials"), you can pin them here!_
+
 
 | <a href="https://github.com/dannz510/PYTHON-GAME-MASTER"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=PYTHON-GAME-MASTER&theme=buefy" /></a> | <a href="https://github.com/dannz510/Iphone-15-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=Iphone-15-simulator&theme=buefy" /></a> |
 | ------------- | ------------- |
