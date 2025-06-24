@@ -29,6 +29,7 @@ _Feel free to add or remove badges based on what you are learning or using! You 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 
 ## 📑 My Projects Zone
@@ -37,11 +38,11 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 | Type             | Project Name                      | Link                                                                        |
 |------------------|-----------------------------------|-----------------------------------------------------------------------------|
-| 🌐 Beginner      | My First HTML Page                | [🔗](https://github.com/dannz510/Heart-by-dz)                              |
-| 🌐 Learning      | Simple Chatbot assistant          | [🔗](https://github.com/dannz510/A.Z.O.Z)                                  |
-| 🌐 Practice      | Markdown Practice Repository      | [🔗](https://github.com/dannz510/DinoGame)                                 |
-| 🌐 Python_Master | Full stack games by python        | [🔗](https://github.com/dannz510/PYTHON-GAME-MASTER)                       |
-| 🌐 Website_Master| Iphone simulator online           | [🔗](https://github.com/dannz510/Iphone-15-simulator)                      |
+| 🌐 Beginner      | My First HTML Page                | [🔗](https://github.com/dannz510/Heart-by-dz)                               |
+| 🌐 Learning      | Simple Chatbot assistant          | [🔗](https://github.com/dannz510/A.Z.O.Z)                                   |
+| 🌐 Practice      | Markdown Practice Repository      | [🔗](https://github.com/dannz510/DinoGame)                                  |
+| 🌐 Python_Master | Full stack games by python        | [🔗](https://github.com/dannz510/PYTHON-GAME-MASTER)                        |
+| 🌐 Website_Master| Iphone simulator online           | [🔗](https://github.com/dannz510/Iphone-15-simulator)                       |
 
 🚀 *Always learning and building!*
 
@@ -49,7 +50,7 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 ## 🔥 GitHub Streak
 
-[![Github Streak](https://streak-stats.demolab.com/?user=dannz510&theme=dark&border_radius=15&hide_total_contributions=true)]
+[![Github Streak](https://streak-stats.demolab.com/?user=dannz510&theme=dark&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ---
 
@@ -57,7 +58,7 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 _This will also update automatically with your activity!_
 
-| <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dannz510&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dannz's github stats" /></a> | <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github.com/github-readme-stats.vercel.app/api/top-langs/?username=dannz510&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dannz510&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dannz's github stats" /></a> | <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannz510&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
@@ -66,8 +67,9 @@ _This will also update automatically with your activity!_
 
 _As you create repositories for your learning journeys (e.g., a "MyJavaScriptNotes" repo, or "GitTutorials"), you can pin them here!_
 
-| <a href="https://github.com/dannz510/PYTHON-GAME-MASTER"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=your-learning-repo-1&theme=buefy" /></a> | <a href="https://github.com/dannz510/Iphone-15-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=your-learning-repo-2&theme=buefy" /></a> |
+| <a href="https://github.com/dannz510/PYTHON-GAME-MASTER"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=PYTHON-GAME-MASTER&theme=buefy" /></a> | <a href="https://github.com/dannz510/Iphone-15-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=Iphone-15-simulator&theme=buefy" /></a> |
 | ------------- | ------------- |
+
 ---
 
 ## 📫 Connect With Me
