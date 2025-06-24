@@ -49,7 +49,7 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 ## 🔥 GitHub Streak
 
-[![Github Streak](https://streak-stats.demolab.com/?user=dannz510&theme=hacker&border_radius=15&hide_total_contributions=true)]
+[![Github Streak](https://streak-stats.demolab.com/?user=dannz510&theme=dark&border_radius=15&hide_total_contributions=true)]
 
 ---
 
