@@ -66,7 +66,7 @@ _This will also update automatically with your activity!_
 
 _As you create repositories for your learning journeys (e.g., a "MyJavaScriptNotes" repo, or "GitTutorials"), you can pin them here!_
 
-| <a href="https://github.com/dannz510/your-learning-repo-1"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=your-learning-repo-1&theme=buefy" /></a> | <a href="https://github.com/dannz510/your-learning-repo-2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=your-learning-repo-2&theme=buefy" /></a> |
+| <a href="https://github.com/dannz510/PYTHON-GAME-MASTER"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=your-learning-repo-1&theme=buefy" /></a> | <a href="https://github.com/dannz510/Iphone-15-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=your-learning-repo-2&theme=buefy" /></a> |
 | ------------- | ------------- |
 ---
 
