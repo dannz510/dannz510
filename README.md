@@ -106,8 +106,13 @@
 ![JWT Token Hacking](https://img.shields.io/badge/JWT_Hacking-232F3E?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ---
-## Moon
+## 🌓 Moon
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+
+---
+## 🎧 My Spotify Activity
+
+[![My Spotify Data Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31j5i5btedy56ywu473os6zs5cjy)](https://data-card-for-spotify.herokuapp.com/card?user_id=31j5i5btedy56ywu473os6zs5cjy)
 
 ---
 ## 📑 My Projects Zone
