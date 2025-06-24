@@ -15,11 +15,15 @@
 [![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dannz510&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
+## 🧊 My 3D Contribution Graph
+
 <p align="center">
  
-![dannz510 github-trophies](https://stats.dooboo.io/api/github-trophies?login=dannz510)
- 
- </p>
+  ![](./profile-3d-contrib/profile-night-view.svg)
+</p>
+
+---
+
  <p align="center">
   
   [![github-trophies](https://github-profile-trophy.vercel.app/?username=dannz510)](https://github.com/ryo-ma/github-profile-trophy)
