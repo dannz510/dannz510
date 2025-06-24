@@ -50,7 +50,7 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 ## 🔥 GitHub Streak
 
-[![Github Streak](https://streak-stats.demolab.com/?user=dannz510&theme=dark&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dannz510&theme=transparent&border_radius=15)](https://git.io/streak-stats)
 
 ---
 
