@@ -128,8 +128,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dannz510&theme=transparent&border_radius=15)](https://git.io/streak-stats)
 
----
-
 ## 📊 My GitHub Stats
 
 
