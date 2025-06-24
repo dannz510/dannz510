@@ -126,7 +126,8 @@
 
 
 
-![dannz510's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dannz510&theme=react&hide_border=true)
+![dannz510's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dannz510&theme=react&hide_border=true) | ![image](https://github.com/user-attachments/assets/45dab06d-a4a6-43aa-bd3a-17b3083d1d64) |
+| ------------- | ------------- |
 
 ---
 ## 📊 My GitHub Stats
