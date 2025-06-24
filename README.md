@@ -33,6 +33,12 @@
   [![github-trophies](https://github-profile-trophy.vercel.app/?username=dannz510)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
+<p align="center">
+  ![GitHub Achievements](metrics.plugin.achievements.svg)
+</p>
+
+---
+
 ## 📔 Quote
 
 [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
