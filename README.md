@@ -16,7 +16,9 @@
 
 ---
 
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
+<p align="center">
+  ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
+</p>
 
 ## 📔 Quote
 
