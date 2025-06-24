@@ -16,11 +16,7 @@
 
 ---
 
-### ⭐ My Repository Star History
-
-[![Star History](https://api.lucabubi.me/chart?username=dannz510&repository=PYTHON-GAME-MASTER&color=blue)](https://github.com/lucabubi/star-history)
-
----
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
 
 ## 📔 Quote
 
