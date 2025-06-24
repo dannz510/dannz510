@@ -1,4 +1,8 @@
+ <p align="center">
+
 ![Header](github-header-image.png)
+
+</p>
  
  <h1 align="center">👋 Hi there! I'm Dannz! 🖥️</h1>
 
