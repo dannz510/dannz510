@@ -49,7 +49,8 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dannz510&theme=hacker&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
+[![Github Streak](https://streak-stats.demolab.com/?user=dannz510&theme=hacker&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
+
 ---
 
 ## 📊 My GitHub Stats
