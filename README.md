@@ -126,13 +126,13 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dannz510&theme=transparent&border_radius=15)](https://git.io/streak-stats)
+![dannz510's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dannz510&theme=react&hide_border=true)
 
 ## 📊 My GitHub Stats
 
 
 
-| <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dannz510&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dannz's github stats" /></a> | <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannz510&layout=compact&theme=buefy&hide_border=true" /></a> |
+![dannz510's Stats](https://github-readme-stats.vercel.app/api?username=dannz510&theme=react&show_icons=true&hide_border=true&count_private=true) | ![dannz510's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dannz510&theme=react&show_icons=true&hide_border=true&layout=compact) |
 | ------------- | ------------- |
 
 ---
