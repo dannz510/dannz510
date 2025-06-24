@@ -20,7 +20,11 @@
 ![dannz510 github-trophies](https://stats.dooboo.io/api/github-trophies?login=dannz510)
  
  </p>
- 
+ <p align="center">
+  
+  [![github-trophies](https://github-profile-trophy.vercel.app/?username=dannz510)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
 ## 📔 Quote
 
 [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
