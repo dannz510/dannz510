@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi there! I'm Dannz! 🚀</h1>
-<h3 align="center">🌱 Exploring GitHub | Eager to Learn & Collaborate | Always Building Something New</h3>
+<h1 align="center">👋 Hi there! I'm Dannz! 🖥️</h1>
+<h3 align="center">🚀 Exploring GitHub | Eager to Learn & Collaborate | Always Building Something New</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00ccff&center=true&vCenter=true&lines=Learning+GitHub!;Exploring+new+technologies!;Open+to+collaborations!;Coding+and+building!;Connecting+with+developers!" alt="Typing SVG" />
