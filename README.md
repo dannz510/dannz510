@@ -6,7 +6,8 @@
 </p>
 
 ---
-
+## 📔 Quote
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently **diving deep into GitHub** and **learning new programming concepts**.
