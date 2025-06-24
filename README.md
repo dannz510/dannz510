@@ -2,7 +2,7 @@
 <h3 align="center">🌱 Exploring GitHub | Eager to Learn & Collaborate | Always Building Something New</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Learning+GitHub!;Exploring+new+technologies!;Open+to+collaborations!;Coding+and+building!;Connecting+with+developers!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ccff&center=true&vCenter=true&lines=Learning+GitHub!;Exploring+new+technologies!;Open+to+collaborations!;Coding+and+building!;Connecting+with+developers!" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **[Your primary programming language/technology, e.g., Python, JavaScript, Web Development basics]**
 - 👯 I’m looking to collaborate on **beginner-friendly projects** and **learn from experienced developers**.
 - 💬 Ask me about **[Topics you're learning or interested in, e.g., getting started with Git, basic coding challenges]**
-- 📫 How to reach me: [Your LinkedIn Profile](YOUR_LINKEDIN_URL) | [Your Twitter Profile (if any)](YOUR_TWITTER_URL) | [Your personal website/portfolio (if any)](YOUR_PORTFOLIO_URL)
+- 📫 How to reach me: [GitHub profile](https://github.com/dannz510)
 - ⚡ Fun fact: I'm excited to **build my first [type of project, e.g., web app, script]** and **contribute to open source!**
 
 ---
@@ -49,7 +49,7 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 ## 🔥 GitHub Streak
 
-[![Github Streak](https://streak-stats.demolab.com/?user=dannz510&theme=hacker&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
+[![Github Streak](https://streak-stats.demolab.com/?user=dannz510&theme=hacker&border_radius=15&hide_total_contributions=true)]
 
 ---
 
@@ -57,7 +57,7 @@ _As you create projects, you can link them here! Start with a few simple ones._
 
 _This will also update automatically with your activity!_
 
-| <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dannz510&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dannz's github stats" /></a> | <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannz510&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dannz510&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dannz's github stats" /></a> | <a href="https://github.com/dannz510/github-readme-stats"><img align="center" src="https://github.com/github-readme-stats.vercel.app/api/top-langs/?username=dannz510&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
