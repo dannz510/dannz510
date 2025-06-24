@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+ 
  <h1 align="center">👋 Hi there! I'm Dannz! 🖥️</h1>
 
 <h3 align="center">🚀 Exploring GitHub | Eager to Learn & Collaborate | Always Building Something New</h3>
