@@ -11,6 +11,11 @@
 [![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dannz510&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
+### ⭐ My Repository Star History
+
+[![Star History](https://api.lucabubi.me/chart?username=dannz510&repository=PYTHON-GAME-MASTER&color=blue)](https://github.com/lucabubi/star-history)
+
+---
 ## 📔 Quote
 [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## 🙋‍♂️ About Me
