@@ -33,10 +33,12 @@
   [![github-trophies](https://github-profile-trophy.vercel.app/?username=dannz510)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
+---
+## 🏅 My GitHub Achievements
+
 <p align="center">
  
   ![GitHub Achievements](metrics.plugin.achievements.svg)
- 
 </p>
 
 ---
