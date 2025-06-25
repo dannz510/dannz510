@@ -16,11 +16,11 @@
 
 ---
 
-## 🐾 My Profile Visitors (E621 Style)
+## 🐾 My Profile Visitors
 
 <p align="center">
  
-  ![Visitor Count](https://count.getloli.com/e621/dannz510)
+  ![Visitor Count](https://count.getloli.com/@Dannz?name=Dannz&theme=e621&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1)
 </p>
 
 ---
