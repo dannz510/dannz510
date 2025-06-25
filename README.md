@@ -16,6 +16,15 @@
 
 ---
 
+## 🐾 My Profile Visitors (E621 Style)
+
+<p align="center">
+ 
+  ![Visitor Count](https://count.getloli.com/e621/dannz510)
+</p>
+
+---
+
 ### My GitHub Activity Graph
 
 [![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dannz510&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
