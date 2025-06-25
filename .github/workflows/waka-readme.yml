@@ -1,0 +1,48 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST (adjust cron expression for your desired daily time)
+    # Use https://crontab.guru/ to help you generate cron expressions.
+    # Example for 00:00 UTC daily: '0 0 * * *'
+    - cron: '30 18 * * *' # Current setting is 6:30 PM UTC
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # This is crucial for the action to write to your README.md
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          # --- GitHub API related configurations ---
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Uses the secret you created
+          SHOW_COMMIT: "True" # Displays your commit activity
+          SHOW_DAYS_OF_WEEK: "True" # Displays commit distribution by day
+          SHOW_LOC_CHART: "True" # Displays lines of code chart (requires GH_TOKEN)
+          SHOW_LANGUAGE_PER_REPO: "True" # Displays languages used per repository
+
+          # --- Explicitly disable WakaTime related flags ---
+          WAKATIME_API_KEY: "" # Leave empty, as we are not using WakaTime
+          SHOW_TOTAL_CODE_TIME: "False" # Hides total coding time
+          SHOW_PROFILE_VIEWS: "False" # Hides profile views
+          SHOW_LANGUAGE: "False" # Hides programming languages by WakaTime
+          SHOW_OS: "False" # Hides OS details
+          SHOW_PROJECTS: "False" # Hides project details
+          SHOW_TIMEZONE: "False" # Hides timezone
+          SHOW_EDITORS: "False" # Hides editors used
+
+          # --- General/Commit-related flags (customize if needed) ---
+          LOCALE: "en" # Set your preferred language for the stats
+          SECTION_NAME: "waka" # Must match the comments in your README.md
+          COMMIT_BY_ME: "False" # Commits as github-actions[bot] by default
+          COMMIT_MESSAGE: "Updated GitHub-only Dev Metrics"
+          COMMIT_USERNAME: "readme-bot"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          SHOW_UPDATED_DATE: "True" # Shows when the stats were last updated
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+          IGNORED_REPOS: "" # Comma-separated list of repos to ignore (e.g., "my-forked-repo, old-project")
+          SYMBOL_VERSION: "1" # For progress bar symbols
+          DEBUG_LOGGING: "False" # Set to "True" for more detailed logs during debugging
