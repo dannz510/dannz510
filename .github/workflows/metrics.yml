@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   # Schedule daily updates (adjust cron as needed)
-  schedule: [{cron: "0 0 * * *"}] # Runs daily at 00:00 UTC
+  schedule: [{cron: "0 0 * * *"}]
   # Run workflow manually
   workflow_dispatch:
 
@@ -10,18 +10,18 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # This is correctly set from our previous troubleshooting
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg # This is the output file name
-          token: ${{ secrets.METRICS_TOKEN }} # This secret needs to be created
-          user: dannz510 # Your GitHub username
-          base: "" # Don't fetch base stats (as we only want achievements here)
-          plugin_achievements: yes # Enable the achievements plugin
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: dannz510
+          base: ""
+          plugin_achievements: yes
           plugin_achievements_only: >-
-            sponsor, maintainer, octonaut # Example: show specific achievements
-          # plugin_achievements_display: detailed # Default is detailed
-          # plugin_achievements_threshold: C # Default threshold
-          # plugin_achievements_secrets: yes # Default is yes
+            sponsor, maintainer, octonaut
+          # plugin_achievements_display: detailed
+          # plugin_achievements_threshold: C
+          # plugin_achievements_secrets: yes
           plugin_achievements_ignored: projects # <--- ADD THIS LINE
