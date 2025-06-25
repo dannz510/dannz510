@@ -9,16 +9,19 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions: # <--- ADD THIS BLOCK
-      contents: write # <--- THIS GRANTS WRITE PERMISSION
+    permissions:
+      contents: write # This is correctly set from our previous troubleshooting
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: dannz510
-          base: ""
-          plugin_achievements: yes
+          filename: metrics.plugin.achievements.svg # This is the output file name
+          token: ${{ secrets.METRICS_TOKEN }} # This secret needs to be created
+          user: dannz510 # Your GitHub username
+          base: "" # Don't fetch base stats (as we only want achievements here)
+          plugin_achievements: yes # Enable the achievements plugin
           plugin_achievements_only: >-
-            sponsor, maintainer, octonaut
-          output_action: github_commit # This is correct for direct commit by the action
+            sponsor, maintainer, octonaut # Example: show specific achievements
+          # plugin_achievements_display: detailed # Default is detailed
+          # plugin_achievements_threshold: C # Default threshold
+          # plugin_achievements_secrets: yes # Default is yes
+          plugin_achievements_ignored: projects # <--- ADD THIS LINE
