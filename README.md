@@ -23,7 +23,11 @@
   ![Visitor Count](https://count.getloli.com/@Dannz?name=Dannz&theme=e621&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1)
   
 </p>
+
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
+
+
 ---
 
 ### My GitHub Activity Graph
