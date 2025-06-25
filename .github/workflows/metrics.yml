@@ -1,8 +1,8 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}] # Daily updates
-  workflow_dispatch:             # Manual trigger
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@v3.35
+      - uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
