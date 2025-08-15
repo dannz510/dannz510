@@ -48,7 +48,7 @@
 ## ⌨️ My typing proccess
 
 <a href="https://monkeytype.com/profile/Dannzz">
-  <img src="https://raw.githubusercontent.com/Dannzz/Dannzz/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" />
+  <img src="https://raw.githubusercontent.com/dannz510/dannz510/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" />
 </a>
 
 ---
