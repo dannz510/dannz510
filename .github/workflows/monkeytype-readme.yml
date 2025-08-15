@@ -16,7 +16,7 @@ jobs:
 
       - name: Generate Monkeytype Stats SVG
         # This is the correct, full path to the action.
-        uses: https://github.com/monkeytype-readme/monkeytype-readme-action@v2
+        uses: monkeytype-readme/monkeytype-readme-action@v2
         with:
           user-id: Dannzz # Replace with your Monkeytype username
           theme: "midnight" # Change this to your preferred theme if needed
