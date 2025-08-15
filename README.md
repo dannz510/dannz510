@@ -45,6 +45,11 @@
 
   ![](./profile-3d-contrib/profile-night-view.svg)
 
+## ⌨️ My typing proccess
+
+<a href="https://monkeytype.com/profile/Dannzz">
+  <img src="https://raw.githubusercontent.com/Dannzz/Dannzz/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" />
+</a>
 
 ---
 ## 🏅 My GitHub Achievements
