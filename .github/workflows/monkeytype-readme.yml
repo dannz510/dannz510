@@ -1,32 +1,23 @@
-name: Generate Monkeytype Readme SVG
+name: Update Monkeytype Stats
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch:
-
-permissions:
-  contents: write # Required to push the generated SVG to the repository
+    - cron: "0 */6 * * *"
 
 jobs:
-  generate-stats:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Monkeytype Stats SVG
-        # This is the correct, full path to the action.
-        uses: monkeytype-readme/monkeytype-readme-action@v2
+      - uses: actions/checkout@v2
+      - name: Generate Monkeytype Stats Card
+        uses: [name-of-the-new-action-here]
         with:
-          user-id: Dannzz # Replace with your Monkeytype username
-          theme: "midnight" # Change this to your preferred theme if needed
-          graph: "true" # This option should give you the detailed graph
-          # You can add more customization options here.
-
-      - name: Commit and push changes
+          monkeytype_username: "Dannzz"
+          theme: "midnight"
+          # Other options for more detailed stats
+      - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add monkeytype-stats.svg
-          git commit -m "Update Monkeytype stats" || echo "No changes to commit"
+          git add .
+          git commit -m "Update Monkeytype stats card" || echo "No changes to commit"
           git push
