@@ -1,23 +1,29 @@
-name: Update Monkeytype Stats
+name: generate monkeytype readme svg
+
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
-  update-readme:
+  download-svg:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Generate Monkeytype Stats Card
-        uses: [name-of-the-new-action-here]
-        with:
-          monkeytype_username: "Dannzz"
-          theme: "midnight"
-          # Other options for more detailed stats
-      - name: Commit files
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Monkeytype Readme
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update Monkeytype stats card" || echo "No changes to commit"
-          git push
+          mkdir public
+          # Replace YOUR_MONKEYTYPE_USERNAME and THEME_NAME with your details
+          curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/Dannzz/midnight
+      
+      - name: Push monkeytype-readme.svg to the monkeytype-readme branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: monkeytype-readme
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
