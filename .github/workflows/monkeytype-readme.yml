@@ -15,10 +15,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Monkeytype Stats SVG
-        uses: monkeytype-readme/action@v2
+        uses: monkeytype-readme/action-v2@v2  # This line has been fixed
         with:
-          user-id: Dannzz # Replace with your Monkeytype username
-          theme: "midnight" # Change this to your preferred theme if needed
+          user-id: YOUR_MONKEYTYPE_USERNAME  # <--- IMPORTANT: Replace this with your actual username
+          theme: "midnight"
           # Add other options here to customize the graph, e.g.,
           # graph: "true"
           # layout: "compact"
