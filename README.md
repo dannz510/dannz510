@@ -163,10 +163,14 @@
 
 ## 🚀 Valuable Learning Resources
 
-| Pinned Repo 1 | Pinned Repo 2 |
-| :---: | :---: |
-| <a href="https://github.com/dannz510/PYTHON-GAME-MASTER"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=PYTHON-GAME-MASTER&theme=buefy" /></a> | <a href="https://github.com/dannz510/Iphone-15-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=Iphone-15-simulator&theme=buefy" /></a> |
-
+<p align="center">
+  <a href="https://github.com/dannz510/PYTHON-GAME-MASTER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=PYTHON-GAME-MASTER&theme=react&show_owner=false" alt="PYTHON-GAME-MASTER" />
+  </a>
+  <a href="https://github.com/dannz510/Iphone-15-simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=Iphone-15-simulator&theme=react&show_owner=false" alt="Iphone-15-simulator" />
+  </a>
+</p>
 ---
 
 ## ⌨️ My Typing Process
