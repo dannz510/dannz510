@@ -126,7 +126,7 @@
 ## 🏅 My GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dannz510&theme=flat&column=6" alt="github-trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dannz510&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
