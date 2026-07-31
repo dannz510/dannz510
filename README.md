@@ -144,7 +144,7 @@
 ## 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannz510&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=dannz510&theme=synthwave&hide_border=true" />
 </p>
 
 <p align="center">
