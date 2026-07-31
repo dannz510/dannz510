@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Exploring GitHub | Eager to Learn & Collaborate | Always Building Something New</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ccff&center=true&vCenter=true&lines=Learning+GitHub!;Exploring+new+technologies!;Open+to+collaborations!;Coding+and+building!;Connecting+with+developers!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?color=00ccff&center=true&vCenter=true&lines=Learning+GitHub!;Exploring+new+technologies!;Open+to+collaborations!;Coding+and+building!;Connecting+with+developers!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -169,22 +169,6 @@
   </a>
   <a href="https://github.com/dannz510/Iphone-15-simulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=Iphone-15-simulator&theme=react&show_owner=false" alt="Iphone-15-simulator" />
-  </a>
-</p>
----
-
-## ⌨️ My Typing Process 
-<a href="https://monkeytype.com/profile/Dannzz">
-  <img src="https://monkeytype-readme.vercel.app/generate-svg/Dannzz/midnight" alt="My Monkeytype profile" />
-</a>
-
----
-
-## 🎧 My Spotify Activity
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31j5i5btedy56ywu473os6zs5cjy">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify?user_id=31j5i5btedy56ywu473os6zs5cjy" alt="Spotify Data Card" />
   </a>
 </p>
 
