@@ -173,13 +173,10 @@
 </p>
 ---
 
-## ⌨️ My Typing Process
-
-<p align="center">
-  <a href="https://monkeytype.com/profile/Dannzz">
-    <img src="https://monkeytype-readme.vercel.app/generate-svg/Dannzz/midnight" alt="My Monkeytype profile" />
-  </a>
-</p>
+## ⌨️ My Typing Process 
+<a href="https://monkeytype.com/profile/Dannzz">
+  <img src="https://monkeytype-readme.vercel.app/generate-svg/Dannzz/midnight" alt="My Monkeytype profile" />
+</a>
 
 ---
 
