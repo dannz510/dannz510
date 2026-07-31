@@ -24,21 +24,13 @@
 ## 🐾 My Profile Visitors
 
 <p align="center">
- 
-  ![Visitor Count](https://count.getloli.com/@Dannz?name=Dannz&theme=e621&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1)
+  <img src="https://count.getloli.com/@Dannz?name=Dannz&theme=e621&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1" alt="Visitor Count" />
 </p>
-
 ---
-
-
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ---
-
-
-
-
 
 ### My GitHub Activity Graph
 
@@ -48,20 +40,6 @@
 ## 🧊 My 3D Contribution Graph
 
   ![](./profile-3d-contrib/profile-night-view.svg)
-
-## ⌨️ My typing proccess
-
-<a href="https://monkeytype.com/profile/Dannzz">
-  <img src="https://raw.githubusercontent.com/dannz510/dannz510/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" />
-</a>
-
----
-## 🏅 My GitHub Achievements
-
- <p align="center">
-  
-  [![github-trophies](https://github-profile-trophy.vercel.app/?username=dannz510)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 
 ---
@@ -176,9 +154,13 @@
 
 ---
 
-## 🌓 Moon
+## 🌔 Moon Phase
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+<p align="center">
+  <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="Moon Phase" />
+  </a>
+</p>
 
 ---
 
@@ -233,6 +215,7 @@
   </a>
 </p>
 ---
+
 ## 📫 Connect With Me
 
 🌐 **Github:** [Dannz](https://github.com/dannz510) <br>
