@@ -177,7 +177,7 @@
 
 <p align="center">
   <a href="https://monkeytype.com/profile/Dannzz">
-    <img src="https://raw.githubusercontent.com/dannz510/dannz510/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" />
+    <img src="https://monkeytype-readme.vercel.app/generate-svg/Dannzz/midnight" alt="My Monkeytype profile" />
   </a>
 </p>
 
