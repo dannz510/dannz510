@@ -185,7 +185,9 @@
 
 ## 🎧 My Spotify Activity
 
-[![My Spotify Data Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31j5i5btedy56ywu473os6zs5cjy)](https://data-card-for-spotify.herokuapp.com/card?user_id=31j5i5btedy56ywu473os6zs5cjy)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31j5i5btedy56ywu473os6zs5cjy">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31j5i5btedy56ywu473os6zs5cjy" alt="Data Card for Spotify">
+</a>
 
 ---
 
