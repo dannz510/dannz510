@@ -180,10 +180,11 @@
 
 ---
 
-## 🎧 Spotify & Vibe Zone
+## 🎧 My Spotify Activity
+
 <p align="center">
   <a href="https://open.spotify.com/user/31j5i5btedy56ywu473os6zs5cjy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user_id=31j5i5btedy56ywu473os6zs5cjy&count=1&theme=dark" alt="Spotify Recently Played" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j5i5btedy56ywu473os6zs5cjy&cover_image=true&theme=novoid&show_offline=true&background_color=0d1117&interactivity=false" alt="Spotify Status" />
   </a>
 </p>
 
