@@ -143,9 +143,14 @@
 
 ## 🔥 GitHub Streak & Stats
 
-| GitHub Streak | GitHub Stats |
-| :---: | :---: |
-| ![dannz510's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dannz510&theme=react&hide_border=true) | ![dannz510's Stats](https://github-readme-stats.vercel.app/api?username=dannz510&theme=react&show_icons=true&hide_border=true&count_private=true) |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannz510&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannz510&layout=compact&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dannz510&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="48%" />
+</p>
 
 ---
 
