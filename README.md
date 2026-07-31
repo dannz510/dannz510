@@ -181,9 +181,10 @@
 ---
 
 ## 🎧 Spotify & Vibe Zone
-
 <p align="center">
-  <img src="https://novorender-spotify-widget.vercel.app/api/spotify?user_id=31j5i5btedy56ywu473os6zs5cjy&theme=dark" alt="Spotify Widget" />
+  <a href="https://open.spotify.com/user/31j5i5btedy56ywu473os6zs5cjy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user_id=31j5i5btedy56ywu473os6zs5cjy&count=1&theme=dark" alt="Spotify Recently Played" />
+  </a>
 </p>
 
 ---
