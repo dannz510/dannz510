@@ -1,13 +1,18 @@
-<p align="center">
-  <img src="github-header-image.png" alt="Header">
+ <p align="center">
+
+![Header](github-header-image.png)
+
 </p>
 
-<h1 align="center">👋 Hi there! I'm Dannz! 🖥️</h1>
+ 
+ <h1 align="center">👋 Hi there! I'm Dannz! 🖥️</h1>
 
 <h3 align="center">🚀 Exploring GitHub | Eager to Learn & Collaborate | Always Building Something New</h3>
 
 <p align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?color=00ccff&center=true&vCenter=true&lines=Learning+GitHub!;Exploring+new+technologies!;Open+to+collaborations!;Coding+and+building!;Connecting+with+developers!" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
@@ -19,25 +24,71 @@
 ## 🐾 My Profile Visitors
 
 <p align="center">
-  <img src="https://count.getloli.com/@Dannz?name=Dannz&theme=e621&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1" alt="Visitor Count" />
+ 
+  ![Visitor Count](https://count.getloli.com/@Dannz?name=Dannz&theme=e621&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1)
 </p>
 
 ---
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="200" /></a>
+
+
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
+---
+
+
+
+
+
+### My GitHub Activity Graph
+
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dannz510&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+## 🧊 My 3D Contribution Graph
+
+  ![](./profile-3d-contrib/profile-night-view.svg)
+
+## ⌨️ My typing proccess
+
+<a href="https://monkeytype.com/profile/Dannzz">
+  <img src="https://raw.githubusercontent.com/dannz510/dannz510/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" />
+</a>
+
+---
+## 🏅 My GitHub Achievements
+
+ <p align="center">
+  
+  [![github-trophies](https://github-profile-trophy.vercel.app/?username=dannz510)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
+
+---
+
+## 📔 Quote
+
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently **diving deep into GitHub** and **learning new programming concepts**.
-- 🌱 I’m currently learning **Python, JavaScript, Security & Web Development**.
+
+- 🌱 I’m currently learning **[Your primary programming language/technology, e.g., Python, JavaScript, Web Development basics]**
+
 - 👯 I’m looking to collaborate on **beginner-friendly projects** and **learn from experienced developers**.
-- 💬 Ask me about **Git, Pentesting, C++, Python, and System Design**.
+
+- 💬 Ask me about **[Topics you're learning or interested in, e.g., getting started with Git, basic coding challenges]**
+
 - 📫 How to reach me: [GitHub profile: Dannz](https://github.com/dannz510)
-- ⚡ Fun fact: I'm excited to **build my first high-performance tools** and **contribute to open source!**
+
+- ⚡ Fun fact: I'm excited to **build my first [type of project, e.g., web app, script]** and **contribute to open source!**
 
 ---
 
-## 💻 Use to Code
+
+
+## 💻Use to Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -48,7 +99,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -67,40 +118,41 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) 
 
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" width="70" height="70"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase" width="70" height="70"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019" width="70" height="70"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/windows-10.png" width="70" height="70"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/></a>
-</p>
 
----
+
+
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> 
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
+  <a href="#"> <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" width="80" height="80"/> </a>
+  <a href="#"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a> </p>
+  <a href="#"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> 
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a>
+  <a href="#"> <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase" width="80" height="80"/></a>
+  <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019"/> </a>
+  <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="100"/> </a>
 
 ## 🕵️‍♂️ Use to Hack
 
@@ -125,73 +177,55 @@
 
 ---
 
-## 📈 Activity & Contribution Graphs
+## 🌓 Moon
 
-### 📊 Activity Graph
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dannz510&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-### 🧊 3D Contribution Graph
-![](./profile-3d-contrib/profile-night-view.svg)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
 ---
 
-## 🔥 GitHub Streak & Stats
+## 🎧 My Spotify Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dannz510&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannz510&layout=compact&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dannz510&theme=react&show_icons=true&hide_border=true&count_private=true" width="48%" />
-</p>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31j5i5btedy56ywu473os6zs5cjy">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31j5i5btedy56ywu473os6zs5cjy" alt="Data Card for Spotify">
+</a>
 
 ---
 
 ## 📑 My Projects Zone
 
-| Type | Project Name | Link |
-| :--- | :--- | :---: |
-| 🌐 Beginner | My First HTML Page | [🔗](https://github.com/dannz510/Heart-by-dz) |
-| 🌐 Learning | Simple Chatbot assistant | [🔗](https://github.com/dannz510/A.Z.O.Z) |
-| 🌐 Practice | Markdown Practice Repository | [🔗](https://github.com/dannz510/DinoGame) |
-| 🌐 Python_Master | Full stack games by python | [🔗](https://github.com/dannz510/PYTHON-GAME-MASTER) |
-| 🌐 Website_Master | Iphone simulator online | [🔗](https://github.com/dannz510/Iphone-15-simulator) |
+| Type             | Project Name                      | Link                                                                        |
+|------------------|-----------------------------------|-----------------------------------------------------------------------------|
+| 🌐 Beginner      | My First HTML Page                | [🔗](https://github.com/dannz510/Heart-by-dz)                               |
+| 🌐 Learning      | Simple Chatbot assistant          | [🔗](https://github.com/dannz510/A.Z.O.Z)                                   |
+| 🌐 Practice      | Markdown Practice Repository      | [🔗](https://github.com/dannz510/DinoGame)                                  |
+| 🌐 Python_Master | Full stack games by python        | [🔗](https://github.com/dannz510/PYTHON-GAME-MASTER)                        |
+| 🌐 Website_Master| Iphone simulator online           | [🔗](https://github.com/dannz510/Iphone-15-simulator)                       |
+
+---
+
+## 🔥 GitHub Streak
+
+![dannz510's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dannz510&theme=react&hide_border=true) | ![image](https://github.com/user-attachments/assets/45dab06d-a4a6-43aa-bd3a-17b3083d1d64) |
+| ------------- | ------------- |
+
+---
+
+## 📊 My GitHub Stats
+
+![dannz510's Stats](https://github-readme-stats.vercel.app/api?username=dannz510&theme=react&show_icons=true&hide_border=true&count_private=true) | ![dannz510's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dannz510&theme=react&show_icons=true&hide_border=true&layout=compact) |
+| ------------- | ------------- |
 
 ---
 
 ## 🚀 Valuable Learning Resources
 
-<p align="center">
-  <a href="https://github.com/dannz510/PYTHON-GAME-MASTER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=PYTHON-GAME-MASTER&theme=buefy&show_owner=false" alt="PYTHON-GAME-MASTER" />
-  </a>
-  <a href="https://github.com/dannz510/Iphone-15-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=Iphone-15-simulator&theme=buefy&show_owner=false" alt="Iphone-15-simulator" />
-  </a>
-</p>
+| <a href="https://github.com/dannz510/PYTHON-GAME-MASTER"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=PYTHON-GAME-MASTER&theme=buefy" /></a> | <a href="https://github.com/dannz510/Iphone-15-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannz510&repo=Iphone-15-simulator&theme=buefy" /></a> |
+| ------------- | ------------- |
 
 ---
-
-## 🌔 Moon Phase
-
-<p align="center">
-  <a href="https://moon-svg.minung.dev">
-    <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="Moon Phase" />
-  </a>
-</p>
-
----
-
-## 📔 Daily Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Quotes" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 🌐 **Github:** [Dannz](https://github.com/dannz510) <br>
-🔏 **Codepen:** [@dannz510](https://codepen.io/dannz510)
+🔏 **Codepen:** [@dannz510](https://codepen.io/dannz510) <br>
+
+---
