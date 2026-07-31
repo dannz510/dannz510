@@ -17,9 +17,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./scifi_ascii_master_svg4.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./scifi_ascii_master_svg4.gif">
-    <img alt="ASCII Profile Animation" src="./scifi_ascii_master_svg4.gif" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./scifi_ascii_compressed.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./scifi_ascii_compressed.gif">
+    <img alt="ASCII Profile Animation" src="./scifi_ascii_compressed.gif" width="100%">
   </picture>
 </p>
 
